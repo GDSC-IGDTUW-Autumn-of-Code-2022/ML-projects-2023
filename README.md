@@ -3,14 +3,14 @@
 <div align="center">
 
 ![GitHub contributors](https://img.shields.io/github/contributors/GDSC-IGDTUW-Autumn-of-Code-2022/ML-projects-2023?style=for-the-badge&color=blue)
-![GitHub Closed issues](https://img.shields.io/github/issues-closed-raw/GDSC-IGDTUW-Autumn-of-Code-2022/ML-projects?style=for-the-badge&color=brightgreen)
-![GitHub PR Open](https://img.shields.io/github/issues-pr/GDSC-IGDTUW-Autumn-of-Code-2022/ML-projects?style=for-the-badge&color=aqua)
-![GitHub PR closed](https://img.shields.io/github/issues-pr-closed-raw/GDSC-IGDTUW-Autumn-of-Code-2022/ML-projects?style=for-the-badge&color=blue)
-![GitHub language count](https://img.shields.io/github/languages/count/GDSC-IGDTUW-Autumn-of-Code-2022/ML-projects?style=for-the-badge&color=brightgreen)
-![GitHub top language](https://img.shields.io/github/languages/top/GDSC-IGDTUW-Autumn-of-Code-2022/ML-projects?style=for-the-badge&color=aqua)
-![GitHub last commit](https://img.shields.io/github/last-commit/GDSC-IGDTUW-Autumn-of-Code-2022/ML-projects?style=for-the-badge&color=blue)
+![GitHub Closed issues](https://img.shields.io/github/issues-closed-raw/GDSC-IGDTUW-Autumn-of-Code-2022/ML-projects-2023?style=for-the-badge&color=brightgreen)
+![GitHub PR Open](https://img.shields.io/github/issues-pr/GDSC-IGDTUW-Autumn-of-Code-2022/ML-projects-2023?style=for-the-badge&color=aqua)
+![GitHub PR closed](https://img.shields.io/github/issues-pr-closed-raw/GDSC-IGDTUW-Autumn-of-Code-2022/ML-projects-2023?style=for-the-badge&color=blue)
+![GitHub language count](https://img.shields.io/github/languages/count/GDSC-IGDTUW-Autumn-of-Code-2022/ML-projects-2023?style=for-the-badge&color=brightgreen)
+![GitHub top language](https://img.shields.io/github/languages/top/GDSC-IGDTUW-Autumn-of-Code-2022/ML-projects-2023?style=for-the-badge&color=aqua)
+![GitHub last commit](https://img.shields.io/github/last-commit/GDSC-IGDTUW-Autumn-of-Code-2022/ML-projects-2023?style=for-the-badge&color=blue)
 ![GitHub Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge)
-![Github Repo Size](https://img.shields.io/github/repo-size/GDSC-IGDTUW-Autumn-of-Code-2022/ML-projects?style=for-the-badge&color=aqua)
+![Github Repo Size](https://img.shields.io/github/repo-size/GDSC-IGDTUW-Autumn-of-Code-2022/ML-projects-2023?style=for-the-badge&color=aqua)
 
 </div>
 
@@ -42,8 +42,8 @@ If you liked working on this project, do ⭐ and share this repository.
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
 
-<a href="https://github.com/GDSC-IGDTUW-Autumn-of-Code-2022/ML-ptojrctsA/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=GDSC-IGDTUW-Autumn-of-Code-2022/ML-projects" />
+<a href="https://github.com/GDSC-IGDTUW-Autumn-of-Code-2022/ML-ptojrct-2023/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=GDSC-IGDTUW-Autumn-of-Code-2022/ML-projects-2023" />
 </a>
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
