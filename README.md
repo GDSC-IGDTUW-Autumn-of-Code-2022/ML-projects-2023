@@ -1,4 +1,4 @@
-# ML-projects-2023
+# AI-projects-2023
 
 <p align="center">
   <img src= "https://user-images.githubusercontent.com/79600026/200428325-16af0df6-f5ab-46dd-a73b-ab15deb98996.jpg" alt="2" width="350"/>
@@ -17,6 +17,9 @@
 ![Github Repo Size](https://img.shields.io/github/repo-size/GDSC-IGDTUW-Autumn-of-Code-2022/ML-projects-2023?style=for-the-badge&color=aqua)
 
 </div>
+
+A repository for showcasing your AI/ML/DL Projects for the GDSC IGDTUW Autumn of Code program. <br/> 
+You can add any AI/ML/DL project you have worked on. Create an issue describing the project you want to contribute, wait for it to get assigned to you and contribute!
 
 ## 🔴 Welcome contributors!
 Machine learning is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks. It is seen as a part of artificial intelligence.
