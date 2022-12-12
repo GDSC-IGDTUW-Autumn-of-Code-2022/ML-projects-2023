@@ -30,8 +30,7 @@ FakeNews dectection experiment involves the following steps.
   8. Predict on the test data
   9. Evaluate the predictions on the test data
 
-# Hacktoberfest 2022
-This is a great way for learners to take part in Hacktoberfest</br>
+
 
 <h3 align="center">
     <a href="https://hacktoberfest.com/">
