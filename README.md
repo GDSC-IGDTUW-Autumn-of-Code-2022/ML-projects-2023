@@ -1,7 +1,7 @@
 # AI-projects-2023
 
 <p align="center">
-  <img src= "https://user-images.githubusercontent.com/79600026/200428325-16af0df6-f5ab-46dd-a73b-ab15deb98996.jpg" alt="2" width="350"/>
+  <h2> GDSC IGDTUW PROJECTS 2023-24 </h2>
 </p>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 </div>
 
-A repository for showcasing your AI/ML/DL Projects for the GDSC IGDTUW Autumn of Code program. <br/> 
+A repository for showcasing your AI/ML/DL Projects for the GDSC IGDTUW Winter of Code program. <br/> 
 You can add any AI/ML/DL project you have worked on. Create an issue describing the project you want to contribute, wait for it to get assigned to you and contribute!
 
 ## 🔴 Welcome contributors!
@@ -57,7 +57,7 @@ https://youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&utm_source=
 
 
 You can take up any of the existing issues or create a new to to contribute any of your own projects!<br/> 
-Contribution period ends: 22 December 2022
+Contribution period ends: 26 January 2024
 
 
 ## How to get started?
@@ -105,5 +105,5 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
 
-© 2022 Arushi Garg- GDSC
+© 2023 Tejaswi Tyagi - GDSC
 
